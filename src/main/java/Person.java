@@ -45,5 +45,4 @@ public class Person {
     public String Soy(){
         return "Soy una persona";
     }
-
 }

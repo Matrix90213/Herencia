@@ -8,7 +8,6 @@ public class Student extends Person{
     public Student(String name, String lastName, String email, String address) {
         super(name, lastName, email, address);
     }
-
     public Student(String name, String lastName, String email, String address, int controlNumber, String career, double generalAverage) {
         super(name, lastName, email, address);
         this.controlNumber = controlNumber;

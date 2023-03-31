@@ -15,7 +15,6 @@ public class Teacher extends Person {
         this.biocard = biocard;
         this.assignedHours = assignedHours;
     }
-
     public String getAdscription() {
         return adscription;
     }

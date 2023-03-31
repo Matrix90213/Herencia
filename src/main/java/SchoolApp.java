@@ -25,5 +25,4 @@ public class SchoolApp {
         System.out.println("\nEl Student: "+student1.Soy());
         System.out.println("El Teacher: "+teacher1.Soy());
     }
-
 }
