@@ -35,7 +35,6 @@ public class Teacher extends Person {
     public int getAssignedHours() {
         return assignedHours;
     }
-
     public void setAssignedHours(int assignedHours) {
         this.assignedHours = assignedHours;
     }
