@@ -34,7 +34,6 @@ public class Student extends Person{
     public void setGeneralAverage(double generalAverage) {
         this.generalAverage = generalAverage;
     }
-
     public String toString (){//Creando un metodo que ya existe, por lo tanto es Sobrecarga un metodo
         return "\n==========Datos del alumno==========\n" +
                 "El Nombre del Alumno es: "+this.getName()+"\n" +
