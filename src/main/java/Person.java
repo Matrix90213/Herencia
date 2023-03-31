@@ -15,7 +15,6 @@ public class Person {
         this.email = email;
         this.address = address;
     }
-
     //Getter and Setter de los atributos
     public String getName() {
         return name;
