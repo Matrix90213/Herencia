@@ -18,7 +18,6 @@ public class SchoolApp {
         teacher1.setAdscription("Contaduria");
         teacher1.setBiocard(1132322132);
         teacher1.setAssignedHours(8);
-
         //Probando la sobrecarga de un metodo
         System.out.println("\nMetodo toString() de Student : " + student1.toString());
         System.out.println("\nMetodo toString() de Teacher : " + teacher1.toString());
