@@ -6,7 +6,7 @@ public class Veterinary {
         Dog firulais=new Dog("Firulais","Manchado",3);
         Rooster claudio=new Rooster("Claudio","Blanco con rojo",1);
 
-        System.out.println("--Ejemplo de polimorfismo usando clase abstracta--");
+        System.out.println("Ejemplo de polimorfismo usando clase abstracta");
         System.out.println("Invocando al metodo toString:");
         System.out.println(garfield.toString());
         System.out.println(felix.toString());
