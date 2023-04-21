@@ -11,6 +11,5 @@ public abstract class Animal {
         this.color = color;
         this.age = age;
     }
-    //Es un metodo porque tiene parentesis
     public abstract String talk();
 }
