@@ -10,7 +10,6 @@ public class Persona {
         this.lastName = lastName;
         this.age = age;
     }
-
     public String getName() {
         return name;
     }

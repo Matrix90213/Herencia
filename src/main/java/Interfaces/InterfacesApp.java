@@ -9,6 +9,7 @@ public class InterfacesApp {
                 "Informatica",
                 "2do"
         );
+
         Empleado empleado = new Empleado(
                 "Pedro",
                 "Gomez",
