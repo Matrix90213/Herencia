@@ -1,6 +1,6 @@
 package Array;
 import java.util.Arrays;
-public class Sumatoria {
+public class Sumatoria_Media_Mediana {
     static double mediana(int[] ordenados){
         if (ordenados.length % 2 == 0){
             return(double)(ordenados[ordenados.length/2]+ordenados[(ordenados.length/2)-1])/2;
