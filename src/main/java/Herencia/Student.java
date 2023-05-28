@@ -1,4 +1,5 @@
-public class Student extends Person{
+package Herencia;
+public class Student extends Person {
     private int controlNumber;
     private String career;
     private double generalAverage;

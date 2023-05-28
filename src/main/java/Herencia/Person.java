@@ -1,3 +1,4 @@
+package Herencia;
 public class Person {
     //Atributos de nuestra clase base(padre)
     private String name;

@@ -1,3 +1,4 @@
+package Herencia;
 public class Teacher extends Person {
     private String adscription;
     private int biocard;
