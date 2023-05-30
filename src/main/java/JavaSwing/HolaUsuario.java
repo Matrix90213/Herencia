@@ -20,6 +20,7 @@ public HolaUsuario() {
     });
     setContentPane(panel1);
     setTitle("Hola Usuario");
+    setSize(600,400);
     setVisible(true);
 }
     public static void main(String[] args) {
